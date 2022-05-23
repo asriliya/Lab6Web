@@ -14,5 +14,6 @@ Kelas : TI.20.B1
 3. Setelah kalian download kalian extract rar atau zipnya, Setelah kalian extract pindahkan folder bootstrap kedalam Lab6_css_framework yang tadi kita buat
 Selanjutnya kita akan membuat htmlnya berikut dibawah ini adalah awal yang harus kalian buat, pastikan html dan css didalam folder Lab6_css_framework bersama dengan folder bootstrap.
 
-Ini adalah inputnya :
+Ini adalah input dan outputnya :
 
+untuk codingan.nya ada di folder diatas.
